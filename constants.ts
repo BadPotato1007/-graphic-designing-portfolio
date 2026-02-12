@@ -6,7 +6,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Gluten Free Cookie Range',
     category: 'Packaging Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/1.jpg?raw=true',
+    imageUrl: './mockups/1.jpg',
     color: '#86efac'
   },
   {

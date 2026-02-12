@@ -14,7 +14,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Pizza Box For Delivery',
     category: 'Packaging Design',
     brand: 'Spice And Sizzle',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/2.jpg?raw=true',
+    imageUrl: './mockups/2.jpg?raw=true',
     color: '#93c5fd'
   },
   {
@@ -22,7 +22,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Restaurant Menu',
     category: 'Menu Card',
     brand: 'Spice And Sizzle',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/3.jpg?raw=true',
+    imageUrl: './mockups/3.jpg?raw=true',
     color: '#f9a8d4'
   },
   {
@@ -30,7 +30,7 @@ export const PROJECTS_DATA: Project[] = [
     title: '3 Fold Flyer Design',
     category: 'Flyer',
     brand: 'Ethiniichic',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/4.jpg?raw=true',
+    imageUrl: './mockups/4.jpg?raw=true',
     color: '#fde047'
   },
   {
@@ -38,7 +38,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Festive Gift Box',
     category: 'Packaging Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/5.jpg?raw=true',
+    imageUrl: './mockups/5.jpg?raw=true',
     color: '#d8b4fe'
   },
   {
@@ -46,7 +46,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Festive Gift Box',
     category: 'Packaging Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/6.jpg?raw=true',
+    imageUrl: './mockups/6.jpg?raw=true',
     color: '#fdba74'
   },
   {
@@ -54,7 +54,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Shopping Bag',
     category: 'Bag Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/7.jpg?raw=true',
+    imageUrl: './mockups/7.jpg?raw=true',
     color: '#86efac'
   },
   {
@@ -62,7 +62,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Shopping Bag',
     category: 'Bag Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/8.jpg?raw=true',
+    imageUrl: './mockups/8.jpg?raw=true',
     color: '#93c5fd'
   },
   {
@@ -70,7 +70,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Standie',
     category: 'Standie Design',
     brand: '45Th Avenue',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/9.jpg?raw=true',
+    imageUrl: './mockups/9.jpg?raw=true',
     color: '#f9a8d4'
   },
   {
@@ -78,7 +78,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Christmas Standie',
     category: 'Standie Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/10.jpg?raw=true',
+    imageUrl: './mockups/10.jpg?raw=true',
     color: '#fde047'
   },
   {
@@ -86,7 +86,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'New Year Standie',
     category: 'Standie Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/11.jpg?raw=true',
+    imageUrl: './mockups/11.jpg?raw=true',
     color: '#d8b4fe'
   },
   {
@@ -94,7 +94,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'On Table Menu',
     category: 'Menu Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/12.jpg?raw=true',
+    imageUrl: './mockups/12.jpg?raw=true',
     color: '#fdba74'
   },
   {
@@ -102,7 +102,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Menu Standie',
     category: 'Standie Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/13.jpg?raw=true',
+    imageUrl: './mockups/13.jpg?raw=true',
     color: '#86efac'
   },
   {
@@ -110,7 +110,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Standie For Event',
     category: 'Standie Design',
     brand: 'Rotary Bangalore',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/14.jpg?raw=true',
+    imageUrl: './mockups/14.jpg?raw=true',
     color: '#93c5fd'
   },
   {
@@ -118,7 +118,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Chips Pouch Pack',
     category: 'Packaging Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/15.jpg?raw=true',
+    imageUrl: './mockups/15.jpg?raw=true',
     color: '#f9a8d4'
   },
   {
@@ -126,7 +126,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'On Table Standie',
     category: 'Marketing Material',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/16.jpg?raw=true',
+    imageUrl: './mockups/16.jpg?raw=true',
     color: '#fde047'
   },
   {
@@ -134,7 +134,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'On Table Menu',
     category: 'Menu Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/17.jpg?raw=true',
+    imageUrl: './mockups/17.jpg?raw=true',
     color: '#d8b4fe'
   },
   {
@@ -142,7 +142,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Standie For Event',
     category: 'Standie Design',
     brand: 'Cream Stone',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/18.jpg?raw=true',
+    imageUrl: './mockups/18.jpg?raw=true',
     color: '#fdba74'
   },
   {
@@ -150,7 +150,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Event Material',
     category: 'Certificate Design',
     brand: 'Cream Stone',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/19.jpg?raw=true',
+    imageUrl: './mockups/19.jpg?raw=true',
     color: '#86efac'
   },
   {
@@ -158,7 +158,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Chocolate Tin Box',
     category: 'Packaging Design',
     brand: 'Cocoatini',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/20.jpg?raw=true',
+    imageUrl: './mockups/20.jpg?raw=true',
     color: '#93c5fd'
   },
   {
@@ -166,7 +166,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Flyer',
     category: 'Marketing Material',
     brand: 'Ethiniichic',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/21.jpg?raw=true',
+    imageUrl: './mockups/21.jpg?raw=true',
     color: '#f9a8d4'
   },
   {
@@ -174,7 +174,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Pizza Box For Delivery',
     category: 'Packaging Design',
     brand: 'Delizie',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/22.jpg?raw=true',
+    imageUrl: './mockups/22.jpg?raw=true',
     color: '#fde047'
   },
   {
@@ -182,7 +182,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Shopping Bag',
     category: 'Bag Design',
     brand: 'Karachi Bakery',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/23.jpg?raw=true',
+    imageUrl: './mockups/23.jpg?raw=true',
     color: '#d8b4fe'
   },
   {
@@ -190,7 +190,7 @@ export const PROJECTS_DATA: Project[] = [
     title: 'Standie',
     category: 'Standie Design',
     brand: 'Delizie',
-    imageUrl: 'https://raw.githubusercontent.com/BadPotato1007/graphic-designing-portfolio/blob/main/mockups/24.jpg?raw=true',
+    imageUrl: './mockups/24.jpg?raw=true',
     color: '#fdba74'
   }
 ];
